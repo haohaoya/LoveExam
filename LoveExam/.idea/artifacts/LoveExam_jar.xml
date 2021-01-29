@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoveExam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoveExam_jar</output-path>
+    <root id="archive" name="LoveExam.jar">
+      <element id="module-output" name="LoveExam" />
+    </root>
+  </artifact>
+</component>
